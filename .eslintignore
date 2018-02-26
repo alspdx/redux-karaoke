@@ -1,0 +1,4 @@
+src/actions/*.js
+src/middleware/*.js
+src/reducers/*.js
+__tests__/
